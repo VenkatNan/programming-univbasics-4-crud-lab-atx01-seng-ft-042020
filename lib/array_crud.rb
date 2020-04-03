@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   num=["unnu","rendu","moonu","nalu"]
-  num.pop
+  nalu=num.pop
   
 end
 
