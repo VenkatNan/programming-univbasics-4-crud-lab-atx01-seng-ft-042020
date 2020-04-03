@@ -23,12 +23,15 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  num=["wow","unnu","rendu","moonu","nalu","arrays!"]
+  num=["wow","unnu","rendu","moonu","nalu"]
   tab = num.shift
   tab
 end
 
 def retrieve_element_from_index(array, index_number)
+  num=["am","unnu","rendu","moonu","nalu"]
+  a=[0]
+  a
   
 end
 
