@@ -7,8 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  num=["unnu","rendu","moonu","nalu"]
-  num << "arrays!"
+  array<< element
 end
 
 def add_element_to_start_of_array(array, element)
@@ -40,14 +39,13 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  num=["opopo","unnu","rendu","moonu","nalu","arrays!"]
-  num[-1]
+  array[-1]
   
 end
 
 def update_element_from_index(array, index_number, element)
-  num=["opopo","unnu","rendu","moonu","nalu","arrays!"]
+  array[index_number]=
   
-  num[index_number]
+  num[index_number] =
 
 end
